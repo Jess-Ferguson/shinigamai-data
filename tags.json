@@ -13,5 +13,10 @@
     "target_id": "test-accel-1750796982201",
     "tag": "accel",
     "timestamp": 1750796982
+  },
+  {
+    "target_id": "test-decel-1750796983202",
+    "tag": "decel",
+    "timestamp": 1750796983
   }
 ]
