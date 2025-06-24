@@ -28,5 +28,10 @@
     "target_id": "test-doomer-1750796985058",
     "tag": "doomer",
     "timestamp": 1750796985
+  },
+  {
+    "target_id": "test-rationalist-1750796986079",
+    "tag": "rationalist",
+    "timestamp": 1750796986
   }
 ]
