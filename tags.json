@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "target_id": "test-target-123",
+    "tag": "test-tag",
+    "timestamp": 1750795178
+  }
+]
