@@ -23,5 +23,10 @@
     "target_id": "test-optimist-1750796984133",
     "tag": "optimist",
     "timestamp": 1750796984
+  },
+  {
+    "target_id": "test-doomer-1750796985058",
+    "tag": "doomer",
+    "timestamp": 1750796985
   }
 ]
