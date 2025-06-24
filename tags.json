@@ -18,5 +18,10 @@
     "target_id": "test-decel-1750796983202",
     "tag": "decel",
     "timestamp": 1750796983
+  },
+  {
+    "target_id": "test-optimist-1750796984133",
+    "tag": "optimist",
+    "timestamp": 1750796984
   }
 ]
