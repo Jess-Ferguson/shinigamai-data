@@ -8,5 +8,10 @@
     "target_id": "test-target-123",
     "tag": "test-tag",
     "timestamp": 1750796281
+  },
+  {
+    "target_id": "test-accel-1750796982201",
+    "tag": "accel",
+    "timestamp": 1750796982
   }
 ]
