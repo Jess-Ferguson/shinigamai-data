@@ -143,5 +143,29 @@
     "tag": "optimist",
     "timestamp": 1750798472,
     "hash": "000023a266c9156f9f299ffe50c428f21b070a0c1cc7ddaf483bd5448af0fd36"
+  },
+  {
+    "target_id": "twitter:HeterodoxTakes",
+    "tag": "optimist",
+    "timestamp": 1750800236,
+    "hash": "000167dd6fb8ceb2246f7b82db03c5575b3c97b00efe6b8167f30df5e691c180"
+  },
+  {
+    "target_id": "sync-test-1750800293287-1",
+    "tag": "accel",
+    "timestamp": 1750800293,
+    "hash": "000ba03720dbec91536455bcabc9615cc8eb5a50ff962ae0d99adc7252d58e65"
+  },
+  {
+    "target_id": "sync-test-1750800293287-2",
+    "tag": "decel",
+    "timestamp": 1750800293,
+    "hash": "000b695baacb103223c5fd8cad09c49aa6d2ca1aa9843705f015a6176abf6df5"
+  },
+  {
+    "target_id": "sync-test-1750800293287-3",
+    "tag": "optimist",
+    "timestamp": 1750800294,
+    "hash": "0002a1a6b30c34d9b61a4f6d9531f56f1e13a417315241adfc158d93e7fd9ee1"
   }
 ]
