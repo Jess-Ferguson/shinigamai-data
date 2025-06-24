@@ -48,5 +48,10 @@
     "target_id": "test-post-rat-1750796989153",
     "tag": "post-rat",
     "timestamp": 1750796989
+  },
+  {
+    "target_id": "test-target-123",
+    "tag": "accel",
+    "timestamp": 1750796990
   }
 ]
