@@ -33,5 +33,10 @@
     "target_id": "test-rationalist-1750796986079",
     "tag": "rationalist",
     "timestamp": 1750796986
+  },
+  {
+    "target_id": "test-post-rationalist-1750796986999",
+    "tag": "post-rationalist",
+    "timestamp": 1750796987
   }
 ]
