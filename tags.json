@@ -43,5 +43,10 @@
     "target_id": "test-rat-1750796988227",
     "tag": "rat",
     "timestamp": 1750796988
+  },
+  {
+    "target_id": "test-post-rat-1750796989153",
+    "tag": "post-rat",
+    "timestamp": 1750796989
   }
 ]
