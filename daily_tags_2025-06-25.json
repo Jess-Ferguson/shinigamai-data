@@ -44,5 +44,13 @@
     "timestamp": 1750852749,
     "hash": "000397e2ef3451ea731907f63062cf1801395e0d781c18d0e025abdd15878f8f",
     "tag": "ai_development:pro"
+  },
+  {
+    "target_id": "twitter:pmarca",
+    "spectrum_id": "ai_development",
+    "position": "pro",
+    "timestamp": 1750854225,
+    "hash": "000397e2ef3451ea731907f63062cf1801395e0d781c18d0e025abdd15878f8f",
+    "tag": "ai_development:pro"
   }
 ]
