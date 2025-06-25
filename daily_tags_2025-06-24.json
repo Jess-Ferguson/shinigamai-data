@@ -1,0 +1,20 @@
+[
+  {
+    "target_id": "twitter:testuser1",
+    "tag": "accel",
+    "timestamp": 1750839816,
+    "hash": "000test1"
+  },
+  {
+    "target_id": "twitter:testuser2",
+    "tag": "decel",
+    "timestamp": 1750839816,
+    "hash": "000test2"
+  },
+  {
+    "target_id": "twitter:testuser1",
+    "tag": "optimist",
+    "timestamp": 1750839816,
+    "hash": "000test3"
+  }
+]
