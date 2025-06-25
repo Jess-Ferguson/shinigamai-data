@@ -1,0 +1,62 @@
+{
+  "ai_development": {
+    "id": "ai_development",
+    "name": "AI Development",
+    "description": "Perspective on artificial intelligence development speed and safety",
+    "pro": {
+      "label": "e/acc",
+      "color": "#00ff41",
+      "description": "Accelerate AI development"
+    },
+    "anti": {
+      "label": "decel",
+      "color": "#ff0041",
+      "description": "Decelerate for safety"
+    }
+  },
+  "future_outlook": {
+    "id": "future_outlook",
+    "name": "Future Outlook",
+    "description": "General perspective on the future of humanity and technology",
+    "pro": {
+      "label": "optimist",
+      "color": "#00a8ff",
+      "description": "Positive future outlook"
+    },
+    "anti": {
+      "label": "doomer",
+      "color": "#ff5500",
+      "description": "Pessimistic future outlook"
+    }
+  },
+  "epistemology": {
+    "id": "epistemology",
+    "name": "Epistemology",
+    "description": "Approach to reasoning and knowledge",
+    "pro": {
+      "label": "rationalist",
+      "color": "#8b00ff",
+      "description": "Systematic rationalist approach"
+    },
+    "anti": {
+      "label": "post-rationalist",
+      "color": "#ff00ff",
+      "description": "Beyond pure rationalism"
+    }
+  },
+  "reasoning_style": {
+    "id": "reasoning_style",
+    "name": "Reasoning Style",
+    "description": "Informal perspective on analytical thinking",
+    "pro": {
+      "label": "rat",
+      "color": "#8b00ff",
+      "description": "Analytical rat-sphere thinking"
+    },
+    "anti": {
+      "label": "post-rat",
+      "color": "#ff00ff",
+      "description": "Post-rationalist perspective"
+    }
+  }
+}
