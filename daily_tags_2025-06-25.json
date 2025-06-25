@@ -28,5 +28,13 @@
     "tag": "optimist",
     "timestamp": 1750839794,
     "hash": "000test3"
+  },
+  {
+    "target_id": "twitter:HeterodoxTakes",
+    "spectrum_id": "ai_development",
+    "position": "pro",
+    "timestamp": 1750845316,
+    "hash": "0008c62991f4b9f5760b57b0a34961ff7504217e076f4a0bcecbc2c4b7da87ae",
+    "tag": "ai_development:pro"
   }
 ]
