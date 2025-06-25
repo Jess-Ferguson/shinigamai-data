@@ -10,5 +10,12 @@
       "pro": 0,
       "anti": 1
     }
+  },
+  "twitter:testuser1": {
+    "accel": 1,
+    "optimist": 1
+  },
+  "twitter:testuser2": {
+    "decel": 1
   }
 }
