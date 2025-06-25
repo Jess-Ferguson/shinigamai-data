@@ -60,10 +60,10 @@
     "doomer": 1
   },
   "twitter:testuser1": {
-    "accel": 1,
-    "optimist": 1
+    "accel": 2,
+    "optimist": 2
   },
   "twitter:testuser2": {
-    "decel": 1
+    "decel": 2
   }
 }
