@@ -1,0 +1,162 @@
+[
+  {
+    "target_id": "twitter:EpistemologyFocus",
+    "spectrum_id": "reasoning_style",
+    "position": "anti",
+    "timestamp": 1750845523,
+    "hash": "00011i1fwu1br5a",
+    "tag": "reasoning_style:anti"
+  },
+  {
+    "target_id": "twitter:CautiousOptimist",
+    "spectrum_id": "future_outlook",
+    "position": "anti",
+    "timestamp": 1750842512,
+    "hash": "000267sj3rvicv",
+    "tag": "future_outlook:anti"
+  },
+  {
+    "target_id": "twitter:ActiveDebater",
+    "spectrum_id": "future_outlook",
+    "position": "pro",
+    "timestamp": 1750843474,
+    "hash": "000fpy8pz5fqj6",
+    "tag": "future_outlook:pro"
+  },
+  {
+    "target_id": "twitter:PerfectlySplit",
+    "spectrum_id": "future_outlook",
+    "position": "pro",
+    "timestamp": 1750842348,
+    "hash": "0004jfwjm56fh2",
+    "tag": "future_outlook:pro"
+  },
+  {
+    "target_id": "twitter:ActiveDebater",
+    "spectrum_id": "epistemology",
+    "position": "anti",
+    "timestamp": 1750845867,
+    "hash": "000y3gkd1z8ic",
+    "tag": "epistemology:anti"
+  },
+  {
+    "target_id": "twitter:DoomsdayProphet",
+    "spectrum_id": "ai_development",
+    "position": "anti",
+    "timestamp": 1750845828,
+    "hash": "0005x14or4tq7h",
+    "tag": "ai_development:anti"
+  },
+  {
+    "target_id": "twitter:NewUser",
+    "spectrum_id": "ai_development",
+    "position": "pro",
+    "timestamp": 1750845456,
+    "hash": "0003oh5lo38wlb",
+    "tag": "ai_development:pro"
+  },
+  {
+    "target_id": "twitter:AISpecialist",
+    "spectrum_id": "ai_development",
+    "position": "anti",
+    "timestamp": 1750842571,
+    "hash": "0004bh4sijezug",
+    "tag": "ai_development:anti"
+  },
+  {
+    "target_id": "twitter:RationalDoomer",
+    "spectrum_id": "ai_development",
+    "position": "pro",
+    "timestamp": 1750844088,
+    "hash": "000nlop6hnla5",
+    "tag": "ai_development:pro"
+  },
+  {
+    "target_id": "twitter:EpistemologyFocus",
+    "spectrum_id": "reasoning_style",
+    "position": "anti",
+    "timestamp": 1750842765,
+    "hash": "000pftnp92d638",
+    "tag": "reasoning_style:anti"
+  },
+  {
+    "target_id": "twitter:NewUser",
+    "spectrum_id": "future_outlook",
+    "position": "pro",
+    "timestamp": 1750845636,
+    "hash": "000jwwrzlnwxs",
+    "tag": "future_outlook:pro"
+  },
+  {
+    "target_id": "twitter:IntuitiveAccel",
+    "spectrum_id": "reasoning_style",
+    "position": "pro",
+    "timestamp": 1750842449,
+    "hash": "000u4b95uar1r8",
+    "tag": "reasoning_style:pro"
+  },
+  {
+    "target_id": "twitter:IntuitiveAccel",
+    "spectrum_id": "ai_development",
+    "position": "anti",
+    "timestamp": 1750843399,
+    "hash": "000wcn5xfyk46",
+    "tag": "ai_development:anti"
+  },
+  {
+    "target_id": "twitter:PerfectlySplit",
+    "spectrum_id": "future_outlook",
+    "position": "anti",
+    "timestamp": 1750845047,
+    "hash": "000qf7h507r4ea",
+    "tag": "future_outlook:anti"
+  },
+  {
+    "target_id": "twitter:CautiousOptimist",
+    "spectrum_id": "epistemology",
+    "position": "anti",
+    "timestamp": 1750844140,
+    "hash": "000qq87778fj7k",
+    "tag": "epistemology:anti"
+  },
+  {
+    "target_id": "twitter:CautiousOptimist",
+    "spectrum_id": "epistemology",
+    "position": "pro",
+    "timestamp": 1750843238,
+    "hash": "0002pf93pdeedh",
+    "tag": "epistemology:pro"
+  },
+  {
+    "target_id": "twitter:EpistemologyFocus",
+    "spectrum_id": "reasoning_style",
+    "position": "pro",
+    "timestamp": 1750845027,
+    "hash": "000muzvtm2pi",
+    "tag": "reasoning_style:pro"
+  },
+  {
+    "target_id": "twitter:IntuitiveAccel",
+    "spectrum_id": "reasoning_style",
+    "position": "anti",
+    "timestamp": 1750845501,
+    "hash": "0008uwb0mkodnm",
+    "tag": "reasoning_style:anti"
+  },
+  {
+    "target_id": "twitter:RationalDoomer",
+    "spectrum_id": "epistemology",
+    "position": "anti",
+    "timestamp": 1750843980,
+    "hash": "000w3463e3l9fh",
+    "tag": "epistemology:anti"
+  },
+  {
+    "target_id": "twitter:PerfectlySplit",
+    "spectrum_id": "future_outlook",
+    "position": "pro",
+    "timestamp": 1750844323,
+    "hash": "000p87vueojo6i",
+    "tag": "future_outlook:pro"
+  }
+]
