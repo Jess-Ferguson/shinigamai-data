@@ -203,5 +203,275 @@
   },
   "twitter:testuser2": {
     "decel": 2
+  },
+  "twitter:elonmusk": {
+    "ai_development": {
+      "pro": 180,
+      "anti": 120
+    },
+    "future_outlook": {
+      "pro": 220,
+      "anti": 80
+    },
+    "epistemology": {
+      "pro": 60,
+      "anti": 90
+    },
+    "reasoning_style": {
+      "pro": 45,
+      "anti": 55
+    }
+  },
+  "twitter:ESYudkowsky": {
+    "ai_development": {
+      "pro": 25,
+      "anti": 475
+    },
+    "future_outlook": {
+      "pro": 60,
+      "anti": 340
+    },
+    "epistemology": {
+      "pro": 420,
+      "anti": 30
+    },
+    "reasoning_style": {
+      "pro": 450,
+      "anti": 20
+    }
+  },
+  "twitter:geoffreyhinton": {
+    "ai_development": {
+      "pro": 85,
+      "anti": 215
+    },
+    "future_outlook": {
+      "pro": 100,
+      "anti": 200
+    },
+    "epistemology": {
+      "pro": 250,
+      "anti": 50
+    },
+    "reasoning_style": {
+      "pro": 180,
+      "anti": 70
+    }
+  },
+  "twitter:demishassabis": {
+    "ai_development": {
+      "pro": 240,
+      "anti": 60
+    },
+    "future_outlook": {
+      "pro": 280,
+      "anti": 70
+    },
+    "epistemology": {
+      "pro": 190,
+      "anti": 40
+    },
+    "reasoning_style": {
+      "pro": 160,
+      "anti": 35
+    }
+  },
+  "twitter:ylecun": {
+    "ai_development": {
+      "pro": 380,
+      "anti": 20
+    },
+    "future_outlook": {
+      "pro": 350,
+      "anti": 50
+    },
+    "epistemology": {
+      "pro": 300,
+      "anti": 100
+    },
+    "reasoning_style": {
+      "pro": 280,
+      "anti": 120
+    }
+  },
+  "twitter:AndrewYNg": {
+    "ai_development": {
+      "pro": 320,
+      "anti": 80
+    },
+    "future_outlook": {
+      "pro": 340,
+      "anti": 60
+    },
+    "epistemology": {
+      "pro": 200,
+      "anti": 100
+    },
+    "reasoning_style": {
+      "pro": 180,
+      "anti": 90
+    }
+  },
+  "twitter:GaryMarcus": {
+    "ai_development": {
+      "pro": 90,
+      "anti": 310
+    },
+    "future_outlook": {
+      "pro": 120,
+      "anti": 280
+    },
+    "epistemology": {
+      "pro": 250,
+      "anti": 150
+    },
+    "reasoning_style": {
+      "pro": 220,
+      "anti": 130
+    }
+  },
+  "twitter:timnit": {
+    "ai_development": {
+      "pro": 40,
+      "anti": 360
+    },
+    "future_outlook": {
+      "pro": 80,
+      "anti": 320
+    },
+    "epistemology": {
+      "pro": 140,
+      "anti": 260
+    },
+    "reasoning_style": {
+      "pro": 120,
+      "anti": 280
+    }
+  },
+  "twitter:vitalikbuterin": {
+    "ai_development": {
+      "pro": 220,
+      "anti": 130
+    },
+    "future_outlook": {
+      "pro": 280,
+      "anti": 120
+    },
+    "epistemology": {
+      "pro": 320,
+      "anti": 80
+    },
+    "reasoning_style": {
+      "pro": 340,
+      "anti": 60
+    }
+  },
+  "twitter:pmarca": {
+    "ai_development": {
+      "pro": 450,
+      "anti": 50
+    },
+    "future_outlook": {
+      "pro": 480,
+      "anti": 20
+    },
+    "epistemology": {
+      "pro": 180,
+      "anti": 120
+    },
+    "reasoning_style": {
+      "pro": 150,
+      "anti": 100
+    }
+  },
+  "twitter:RobinHanson": {
+    "ai_development": {
+      "pro": 280,
+      "anti": 120
+    },
+    "future_outlook": {
+      "pro": 300,
+      "anti": 100
+    },
+    "epistemology": {
+      "pro": 380,
+      "anti": 20
+    },
+    "reasoning_style": {
+      "pro": 400,
+      "anti": 10
+    }
+  },
+  "twitter:mattyglesias": {
+    "ai_development": {
+      "pro": 200,
+      "anti": 150
+    },
+    "future_outlook": {
+      "pro": 220,
+      "anti": 130
+    },
+    "epistemology": {
+      "pro": 140,
+      "anti": 110
+    },
+    "reasoning_style": {
+      "pro": 160,
+      "anti": 90
+    }
+  },
+  "twitter:paulg": {
+    "ai_development": {
+      "pro": 300,
+      "anti": 100
+    },
+    "future_outlook": {
+      "pro": 320,
+      "anti": 80
+    },
+    "epistemology": {
+      "pro": 200,
+      "anti": 100
+    },
+    "reasoning_style": {
+      "pro": 240,
+      "anti": 60
+    }
+  },
+  "twitter:ScottAaronson": {
+    "ai_development": {
+      "pro": 150,
+      "anti": 250
+    },
+    "future_outlook": {
+      "pro": 180,
+      "anti": 220
+    },
+    "epistemology": {
+      "pro": 350,
+      "anti": 50
+    },
+    "reasoning_style": {
+      "pro": 380,
+      "anti": 20
+    }
+  },
+  "twitter:robertwiblin": {
+    "ai_development": {
+      "pro": 100,
+      "anti": 300
+    },
+    "future_outlook": {
+      "pro": 140,
+      "anti": 260
+    },
+    "epistemology": {
+      "pro": 280,
+      "anti": 120
+    },
+    "reasoning_style": {
+      "pro": 300,
+      "anti": 100
+    }
   }
 }
