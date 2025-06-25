@@ -40,19 +40,19 @@
       }
     ],
     "pro": {
-      "label": "e/acc++",
+      "label": "Accel",
       "color": "#00ff41",
-      "description": "Extreme acceleration"
+      "description": "Pro-Acceleration"
     },
     "anti": {
-      "label": "p(doom)=1",
+      "label": "Decel",
       "color": "#ff0041",
-      "description": "Extreme AI deceleration"
+      "description": "Anti-Acceleration"
     }
   },
   "future_outlook": {
     "id": "future_outlook",
-    "name": "Future Outlook",
+    "name": "Tech Optimism",
     "positions": [
       {
         "value": -1,
@@ -91,12 +91,12 @@
       }
     ],
     "pro": {
-      "label": "utopian",
+      "label": "Tech Optimist",
       "color": "#00a8ff",
       "description": "Extreme optimism"
     },
     "anti": {
-      "label": "doomer++",
+      "label": "Tech Pessimist",
       "color": "#ff5500",
       "description": "Extreme pessimism"
     }
