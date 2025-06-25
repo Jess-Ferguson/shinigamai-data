@@ -1,0 +1,62 @@
+{
+  "test-decel-1750798101581": {
+    "decel": 1
+  },
+  "test-accel-1750798101180": {
+    "accel": 1
+  },
+  "test-optimist-1750798102048": {
+    "optimist": 1
+  },
+  "test-doomer-1750798102458": {
+    "doomer": 1
+  },
+  "test-rationalist-1750798102819": {
+    "rationalist": 1
+  },
+  "test-rat-1750798103684": {
+    "rat": 1
+  },
+  "test-post-rationalist-1750798103278": {
+    "post-rationalist": 1
+  },
+  "test-target-123": {
+    "accel": 1
+  },
+  "test-post-rat-1750798104029": {
+    "post-rat": 1
+  },
+  "sync-test-1750798385184-2": {
+    "decel": 1
+  },
+  "sync-test-1750798385184-1": {
+    "accel": 1
+  },
+  "sync-test-1750798385184-3": {
+    "optimist": 1
+  },
+  "sync-test-1750798471094-1": {
+    "accel": 1
+  },
+  "sync-test-1750798471094-2": {
+    "decel": 1
+  },
+  "sync-test-1750798471094-3": {
+    "optimist": 1
+  },
+  "twitter:HeterodoxTakes": {
+    "optimist": 1
+  },
+  "sync-test-1750800293287-1": {
+    "accel": 1
+  },
+  "sync-test-1750800293287-2": {
+    "decel": 1
+  },
+  "sync-test-1750800293287-3": {
+    "optimist": 1
+  },
+  "twitter:CopeAndSeetheYT": {
+    "doomer": 1
+  }
+}
