@@ -52,5 +52,21 @@
     "timestamp": 1750854225,
     "hash": "000397e2ef3451ea731907f63062cf1801395e0d781c18d0e025abdd15878f8f",
     "tag": "ai_development:pro"
+  },
+  {
+    "target_id": "twitter:pmarca",
+    "spectrum_id": "future_outlook",
+    "position": "pro",
+    "timestamp": 1750854747,
+    "hash": "0003a466e74d15a1e5b17a87a97c1f352d6e120a5e09f9c3f67492ba72d2a2c5",
+    "tag": "future_outlook:pro"
+  },
+  {
+    "target_id": "twitter:pmarca",
+    "spectrum_id": "epistemology",
+    "position": "anti",
+    "timestamp": 1750854753,
+    "hash": "0009a96f5e955674157c73a399e7cde8449036668aeb2bef3cf8fa1fb378ab78",
+    "tag": "epistemology:anti"
   }
 ]
