@@ -198,11 +198,11 @@
     }
   },
   "twitter:testuser1": {
-    "accel": 4,
-    "optimist": 4
+    "accel": 5,
+    "optimist": 5
   },
   "twitter:testuser2": {
-    "decel": 4
+    "decel": 5
   },
   "twitter:elonmusk": {
     "ai_development": {
@@ -368,16 +368,16 @@
   },
   "twitter:pmarca": {
     "ai_development": {
-      "pro": 450,
+      "pro": 452,
       "anti": 50
     },
     "future_outlook": {
-      "pro": 480,
+      "pro": 481,
       "anti": 20
     },
     "epistemology": {
       "pro": 180,
-      "anti": 120
+      "anti": 121
     },
     "reasoning_style": {
       "pro": 150,
@@ -472,6 +472,18 @@
     "reasoning_style": {
       "pro": 300,
       "anti": 100
+    }
+  },
+  "twitter:Naozymandias": {
+    "rationalist": 1
+  },
+  "twitter:Saberspark": {
+    "decel": 1
+  },
+  "twitter:HeterodoxTakes": {
+    "ai_development": {
+      "pro": 1,
+      "anti": 0
     }
   }
 }
